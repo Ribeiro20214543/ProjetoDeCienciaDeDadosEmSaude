@@ -12,7 +12,7 @@
 1. [Base de Dados](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/BaseDeDados.md)
 2. [Etapas do Projeto](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/EtapasDoProjeto.md)
 3. [Relatório de Análise Exploratória de Dados (AED)](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Relatorio_AED.md)
-4. [Readme Streamlit Modelagem App](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/ReadmeStreamlitModelagemApp.md)
+4. [Readme Streamlit Modelagem App](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Readme%20Streamlit%20Modelagem%20App.md)
 
 * **Códigos**:
 1. [Análise Exploratória](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Analise_Exploratoria.ipynb)
