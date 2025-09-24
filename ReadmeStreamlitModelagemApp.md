@@ -1,8 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# README_Streamlit.md
-
-# 💓 Análise de Doença Cardíaca - Classificação Binária com Balanceamento e Otimização
+# 💓 Análise de Doença Cardíaca
 
 Este projeto implementa uma aplicação interativa em Streamlit para análise e classificação binária de doença cardíaca, comparando duas abordagens principais de balanceamento de classes: **Ponderação de Classe** e **Oversampling com SMOTE**. A aplicação utiliza múltiplos classificadores, com opção de otimização de hiperparâmetros para maximizar a performance preditiva.
 
