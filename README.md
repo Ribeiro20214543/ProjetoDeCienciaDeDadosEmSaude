@@ -24,5 +24,7 @@
 7. [Detecção de Multicolinearidade](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/DeteccaoDeMulticolinearidade.ipynb)
 8. [Seleção de Features](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/SelecaoDeFeatures%20.ipynb)
 9. [Divisão dos Dados](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/DivisaoDosDados%20.ipynb)
-10. [Modelagem]()
-11. [Validação cruzada e documentação completa]()
+10. [Modelagem](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/modelagem_app.py)
+11. Validação cruzada e documentação completa:
+    * [Relatório Completo de Avaliação de Modelos - SMOTE](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/relatorio_completo_oversampling_com_smote.md)
+    * [Relatório Completo de Avaliação de Modelos - Ponderação](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/relatorio_completo_pondera%C3%A7%C3%A3o_de_classe.md)
