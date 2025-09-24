@@ -1,6 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# README.md
 
 # 💓 Análise Binária de Doença Cardíaca
 
@@ -112,7 +109,4 @@ O arquivo original foi criado e editado no Google Colab e convertido para aplica
 
 Livre para uso acadêmico e de pesquisa.
 
-***
-
-Esse README.md fornece instruções claras para uso, contexto e funcionalidades principais do código fornecido, facilitando compreensão e reprodução do experimento.
 
