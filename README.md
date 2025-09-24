@@ -1,4 +1,4 @@
-# Projeto de Ciência de Dados em Saúde (Health Data Science Project)
+# Projeto de Ciência de Dados em Saúde
 
 * **Natureza**: Projeto de *Machine Learning* (foco em classificação binária: prever presença ou ausência de doença cardíaca).
 
