@@ -1,0 +1,14 @@
+﻿,Modelo,Melhor Score (CV)
+10,SGDClassifier,0.8927
+3,Logistic Regression,0.8926
+1,SVM,0.8895
+0,Random Forest,0.8753
+5,XGBoost,0.8716
+6,Gradient Boosting,0.8655
+2,KNN,0.8654
+7,MLP,0.8424
+11,RidgeClassifier,0.8179
+9,LinearSVC,0.8166
+4,Decision Tree,0.8064
+12,PassiveAggressiveClassifier,0.7798
+8,Perceptron,0.7296
