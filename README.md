@@ -11,5 +11,18 @@
 * **Documentação**:
 1. [Base de Dados](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/BaseDeDados.md)
 2. [Etapas do Projeto](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/EtapasDoProjeto.md)
-3. [Relatório de Análise Exploratória de Dados (AED) [https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Relatorio_AED.md]
-4. [Readme Streamlit Modelagem App] 
+3. [Relatório de Análise Exploratória de Dados (AED)](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Relatorio_AED.md)
+4. [Readme Streamlit Modelagem App](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/ReadmeStreamlitModelagemApp.md)
+
+* **Códigos**:
+1. [Análise Exploratória](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Analise_Exploratoria.ipynb)
+2. [Tratamento de Ausentes/Inconsistências](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/TratamentoDeAusentesInconsistencias.ipynb)
+3. [Detecção e Tratamento de Outliers](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/DeteccaoETratamentoDeOutliers.ipynb)
+4. [Avaliação do Balanceamento de Classes](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/AvaliacaoDoBalanceamentoDeClasses.ipynb)
+5. [Teste de Normalidade](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/TesteDeNormalidade.ipynb)
+6. [Teste de Homogeneidade de Variâncias](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/TesteDeHomogeneidadeDeVariancias.ipynb)
+7. [Detecção de Multicolinearidade](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/DeteccaoDeMulticolinearidade.ipynb)
+8. [Seleção de Features](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/SelecaoDeFeatures%20.ipynb)
+9. [Divisão dos Dados](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/DivisaoDosDados%20.ipynb)
+10. [Modelagem]()
+11. [Validação cruzada e documentação completa]()
