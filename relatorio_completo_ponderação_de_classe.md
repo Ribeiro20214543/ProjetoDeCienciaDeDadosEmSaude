@@ -1,6 +1,6 @@
 # Relatório Completo de Avaliação de Modelos
 
-Gerado em: 2025-09-24 20:05:36
+Gerado em: 2025-09-25 09:27:48
 
 **Abordagem de Balanceamento:** Ponderação de Classe
 
@@ -8,161 +8,64 @@ Gerado em: 2025-09-24 20:05:36
 
 ---
 
-## 🏆 Resultados Finais no Conjunto de Teste
+##Resultados Finais no Conjunto de Teste
 
-| Modelo                      |   Acurácia |   Precisão |   Recall (Sensibilidade) |   F1-Score |      AUC |
-|:----------------------------|-----------:|-----------:|-------------------------:|-----------:|---------:|
-| SVM                         |   0.842391 |   0.834862 |                 0.892157 |   0.862559 | 0.925514 |
-| Gradient Boosting           |   0.831522 |   0.84466  |                 0.852941 |   0.84878  | 0.925155 |
-| RidgeClassifier             |   0.842391 |   0.841121 |                 0.882353 |   0.861244 | 0.924199 |
-| Logistic Regression         |   0.847826 |   0.849057 |                 0.882353 |   0.865385 | 0.922764 |
-| SGDClassifier               |   0.853261 |   0.850467 |                 0.892157 |   0.870813 | 0.922645 |
-| LinearSVC                   |   0.831522 |   0.814159 |                 0.901961 |   0.855814 | 0.922047 |
-| XGBoost                     |   0.831522 |   0.851485 |                 0.843137 |   0.847291 | 0.919715 |
-| KNN                         |   0.836957 |   0.827273 |                 0.892157 |   0.858491 | 0.914036 |
-| Random Forest               |   0.847826 |   0.862745 |                 0.862745 |   0.862745 | 0.907341 |
-| PassiveAggressiveClassifier |   0.798913 |   0.857143 |                 0.764706 |   0.80829  | 0.877331 |
-| MLP                         |   0.815217 |   0.826923 |                 0.843137 |   0.834951 | 0.87494  |
-| Decision Tree               |   0.798913 |   0.835052 |                 0.794118 |   0.81407  | 0.870696 |
-| Perceptron                  |   0.75     |   0.77451  |                 0.77451  |   0.77451  | 0.828551 |
+| Modelo                      |   Acurácia |   Precisão |   Recall |   F1-Score |      AUC |
+|:----------------------------|-----------:|-----------:|---------:|-----------:|---------:|
+| SVM                         |   0.842391 |   0.834862 | 0.892157 |   0.862559 | 0.925514 |
+| RidgeClassifier             |   0.842391 |   0.841121 | 0.882353 |   0.861244 | 0.924199 |
+| LinearSVC                   |   0.836957 |   0.815789 | 0.911765 |   0.861111 | 0.923123 |
+| Logistic Regression         |   0.847826 |   0.849057 | 0.882353 |   0.865385 | 0.922764 |
+| XGBoost                     |   0.831522 |   0.851485 | 0.843137 |   0.847291 | 0.919715 |
+| Gradient Boosting           |   0.826087 |   0.836538 | 0.852941 |   0.84466  | 0.918699 |
+| SGDClassifier               |   0.842391 |   0.823009 | 0.911765 |   0.865116 | 0.917384 |
+| Random Forest               |   0.847826 |   0.855769 | 0.872549 |   0.864078 | 0.910689 |
+| KNN                         |   0.842391 |   0.834862 | 0.892157 |   0.862559 | 0.899868 |
+| MLP                         |   0.815217 |   0.826923 | 0.843137 |   0.834951 | 0.87494  |
+| Decision Tree               |   0.798913 |   0.835052 | 0.794118 |   0.81407  | 0.870696 |
+| Perceptron                  |   0.75     |   0.77451  | 0.77451  |   0.77451  | 0.828551 |
+| PassiveAggressiveClassifier |   0.728261 |   0.75     | 0.764706 |   0.757282 | 0.794357 |
 
 
 
-## 🔄 Resultados da Validação Cruzada
+##Resultados da Validação Cruzada
 
 | Modelo                      |   Acurácia Média (CV) |   AUC Médio (CV) |   F1-Score Médio (CV) |
 |:----------------------------|----------------------:|-----------------:|----------------------:|
 | Logistic Regression         |              0.801609 |         0.890262 |              0.816109 |
-| LinearSVC                   |              0.812493 |         0.889439 |              0.831945 |
-| SGDClassifier               |              0.796176 |         0.889404 |              0.810824 |
 | SVM                         |              0.797536 |         0.888861 |              0.81248  |
 | RidgeClassifier             |              0.798878 |         0.88844  |              0.81276  |
+| LinearSVC                   |              0.811133 |         0.888254 |              0.830835 |
 | XGBoost                     |              0.813863 |         0.880682 |              0.830947 |
-| Gradient Boosting           |              0.81389  |         0.879137 |              0.836696 |
-| Random Forest               |              0.807069 |         0.876943 |              0.825391 |
-| KNN                         |              0.803006 |         0.872538 |              0.828161 |
-| PassiveAggressiveClassifier |              0.782625 |         0.841288 |              0.799521 |
+| Random Forest               |              0.807079 |         0.876498 |              0.827242 |
+| Gradient Boosting           |              0.808421 |         0.874768 |              0.830267 |
+| KNN                         |              0.801636 |         0.868928 |              0.826629 |
+| SGDClassifier               |              0.800303 |         0.867187 |              0.816734 |
 | MLP                         |              0.760857 |         0.840822 |              0.784983 |
+| PassiveAggressiveClassifier |              0.747288 |         0.825135 |              0.76812  |
 | Perceptron                  |              0.745882 |         0.816327 |              0.765638 |
-| Decision Tree               |              0.771732 |         0.810049 |              0.78926  |
+| Decision Tree               |              0.773092 |         0.801171 |              0.791953 |
 
 
 
-## 🔍 Matrizes de Confusão (Teste)
-
-Formato: [[Verdadeiro Negativo, Falso Positivo], [Falso Negativo, Verdadeiro Positivo]]
-
-### Random Forest
-
-```
-[[68 14]
- [14 88]]
-```
-
-### SVM
-
-```
-[[64 18]
- [11 91]]
-```
-
-### KNN
-
-```
-[[63 19]
- [11 91]]
-```
-
-### Logistic Regression
-
-```
-[[66 16]
- [12 90]]
-```
-
-### Decision Tree
-
-```
-[[66 16]
- [21 81]]
-```
-
-### XGBoost
-
-```
-[[67 15]
- [16 86]]
-```
-
-### Gradient Boosting
-
-```
-[[66 16]
- [15 87]]
-```
-
-### MLP
-
-```
-[[64 18]
- [16 86]]
-```
-
-### Perceptron
-
-```
-[[59 23]
- [23 79]]
-```
-
-### LinearSVC
-
-```
-[[61 21]
- [10 92]]
-```
-
-### SGDClassifier
-
-```
-[[66 16]
- [11 91]]
-```
-
-### RidgeClassifier
-
-```
-[[65 17]
- [12 90]]
-```
-
-### PassiveAggressiveClassifier
-
-```
-[[69 13]
- [24 78]]
-```
-
-
-
-## 🔧 Melhores Hiperparâmetros
+## Melhores Hiperparâmetros
 
 ### Random Forest
 
 ```json
-{'classifier__max_depth': 5, 'classifier__min_samples_split': 5, 'classifier__n_estimators': 100}
+{'classifier__max_depth': 5, 'classifier__n_estimators': 100}
 ```
 
 ### SVM
 
 ```json
-{'classifier__C': 0.1, 'classifier__gamma': 'scale', 'classifier__kernel': 'linear'}
+{'classifier__C': 0.1, 'classifier__kernel': 'linear'}
 ```
 
 ### KNN
 
 ```json
-{'classifier__n_neighbors': 9, 'classifier__weights': 'distance'}
+{'classifier__n_neighbors': 7, 'classifier__weights': 'distance'}
 ```
 
 ### Logistic Regression
@@ -174,7 +77,7 @@ Formato: [[Verdadeiro Negativo, Falso Positivo], [Falso Negativo, Verdadeiro Pos
 ### Decision Tree
 
 ```json
-{'classifier__max_depth': 5, 'classifier__min_samples_split': 10}
+{'classifier__max_depth': 5, 'classifier__min_samples_split': 5}
 ```
 
 ### XGBoost
@@ -186,7 +89,7 @@ Formato: [[Verdadeiro Negativo, Falso Positivo], [Falso Negativo, Verdadeiro Pos
 ### Gradient Boosting
 
 ```json
-{'classifier__learning_rate': 0.01, 'classifier__max_depth': 3, 'classifier__n_estimators': 200}
+{'classifier__learning_rate': 0.1, 'classifier__max_depth': 3, 'classifier__n_estimators': 50}
 ```
 
 ### MLP
@@ -204,13 +107,13 @@ Formato: [[Verdadeiro Negativo, Falso Positivo], [Falso Negativo, Verdadeiro Pos
 ### LinearSVC
 
 ```json
-{'classifier__C': 0.01}
+{'classifier__C': 0.1}
 ```
 
 ### SGDClassifier
 
 ```json
-{'classifier__alpha': 0.01, 'classifier__loss': 'log_loss'}
+{'classifier__alpha': 0.001, 'classifier__loss': 'log_loss'}
 ```
 
 ### RidgeClassifier
@@ -222,5 +125,5 @@ Formato: [[Verdadeiro Negativo, Falso Positivo], [Falso Negativo, Verdadeiro Pos
 ### PassiveAggressiveClassifier
 
 ```json
-{'classifier__C': 0.1, 'classifier__max_iter': 1000}
+{'classifier__C': 0.5, 'classifier__max_iter': 1000}
 ```
