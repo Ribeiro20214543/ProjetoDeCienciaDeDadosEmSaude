@@ -8,7 +8,7 @@ Gerado em: 2025-09-25 09:27:48
 
 ---
 
-##Resultados Finais no Conjunto de Teste
+## Resultados Finais no Conjunto de Teste
 
 | Modelo                      |   Acurácia |   Precisão |   Recall |   F1-Score |      AUC |
 |:----------------------------|-----------:|-----------:|---------:|-----------:|---------:|
@@ -28,7 +28,7 @@ Gerado em: 2025-09-25 09:27:48
 
 
 
-##Resultados da Validação Cruzada
+## Resultados da Validação Cruzada
 
 | Modelo                      |   Acurácia Média (CV) |   AUC Médio (CV) |   F1-Score Médio (CV) |
 |:----------------------------|----------------------:|-----------------:|----------------------:|
@@ -127,3 +127,4 @@ Gerado em: 2025-09-25 09:27:48
 ```json
 {'classifier__C': 0.5, 'classifier__max_iter': 1000}
 ```
+
