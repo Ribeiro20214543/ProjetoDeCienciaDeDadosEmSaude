@@ -31,4 +31,4 @@
 12. Validação cruzada e documentação completa:
     * [Relatório Completo de Avaliação de Modelos - SMOTE](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/relatorio_completo_oversampling_com_smote.md)
     * [Relatório Completo de Avaliação de Modelos - Ponderação](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/relatorio_completo_pondera%C3%A7%C3%A3o_de_classe.md)
-13. [Predição de doença cardíaca]()
+13. [Predição de doença cardíaca](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Predicao_Cardiaca.ipynb)
