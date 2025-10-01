@@ -13,6 +13,7 @@
 2. [Etapas do Projeto](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/EtapasDoProjeto.md)
 3. [Relatório de Análise Exploratória de Dados (AED)](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Relatorio_AED.md)
 4. [Readme Streamlit Modelagem App](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Readme%20Streamlit%20Modelagem%20App.md)
+5. [Readme Streamlit Previsão Cardíaca App]()
 
 * **Códigos**:
 1. [Análise Exploratória](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Analise_Exploratoria.ipynb)
@@ -28,6 +29,7 @@
     * [Modelagem com Ponderação de Classes](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Modelagem_Balanced.ipynb)
     * [Modelagem com SMOTE](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/Modelagem_SMOTE.ipynb)
     * [Modelagem APP](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/modelagem_app.py)
+    * [Previsão Cardíaca APP](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/predicao_cardiaca_app.py)
 12. Validação cruzada e documentação completa:
     * [Relatório Completo de Avaliação de Modelos - SMOTE](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/relatorio_completo_oversampling_com_smote.md)
     * [Relatório Completo de Avaliação de Modelos - Ponderação](https://github.com/Ribeiro20214543/ProjetoDeCienciaDeDadosEmSaude/blob/main/relatorio_completo_pondera%C3%A7%C3%A3o_de_classe.md)
